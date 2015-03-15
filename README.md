@@ -4,7 +4,7 @@ A place to setup a simple example for SailsJS (v0.11) and Oauth2 Server Setup.
 
 ## TODO
 
-- Sample SailsJS project with Rest API's protected with Oauth2 Implicit flow
+- Sample SailsJS project with Rest API's protected with Oauth2 [Implicit Grant or Client Credential Grant](https://tools.ietf.org/html/rfc6749#page-23)
 - Try and extract the implementation so its portable and can be distributed with npm
 
 ## Libraries in condieration
